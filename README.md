@@ -6,7 +6,7 @@
 
 I'm Wes, a software engineer with a speciality in fullstack web development, machine learning, and Unity game development. I live in the United States, and currently work at Vasion. You can find me on [Twitter][1] or [LinkedIn][2] :)
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/yx3IsczYA4v8VgeJ9B/giphy.gif" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/UHlKxhQLgAH2JfFMeg/giphy.gif" />
 
 **About me:**
 
