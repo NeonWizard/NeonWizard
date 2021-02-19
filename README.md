@@ -8,7 +8,7 @@ I'm Wes, a software engineer with a speciality in fullstack web development, mac
 
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/UHlKxhQLgAH2JfFMeg/giphy.gif" />
 
-**About me:**
+### About me:
 
 - 🌱 I’m currently learning Vue.js and Go
 - 👯‍♂️ I'm looking to collaborate 🤝
@@ -16,6 +16,8 @@ I'm Wes, a software engineer with a speciality in fullstack web development, mac
 - 💾 Ask me about my musical floppy drives!
 - ⚡️ Feel free to fork and PR my repositories, help is appreciated :)
 - 📫 How to reach me: contact@wizardlywonders.xyz
+
+<br/>
 
 ## 📈 Github stats
 
