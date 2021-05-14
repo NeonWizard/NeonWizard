@@ -10,7 +10,7 @@ I'm Wes, a software engineer with a specialty in fullstack web, machine learning
 
 ### About me:
 
-- 🌱 I’m currently learning Vue.js and Go
+- 🌱 I’m currently learning Go
 - 👯‍♂️ I'm looking to collaborate 🤝
 - 📚 I'm always looking for new things to learn about
 - 💾 Ask me about my musical floppy drives!
