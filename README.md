@@ -17,7 +17,7 @@ I'm Wes, a software engineer with a specialty in fullstack web, machine learning
 - ⚡️ Feel free to fork and PR my repositories, help is appreciated :)
 - 📫 How to reach me: contact@wizardlywonders.xyz
 
-<br/>
+<br>
 
 ## 📈 Github stats
 
