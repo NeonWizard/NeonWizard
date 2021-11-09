@@ -30,7 +30,7 @@ I'm Wes, a software engineer with a specialty in fullstack web, machine learning
 
 <p float="left">
 <a href="https://github.com/NeonWizard/NeonWizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonWizard&layout=compact&title_color=fff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21&hide_border=true"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonWizard&layout=compact&title_color=fff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21&hide_border=true&card_width=250"
 </a>
 
 <a href="https://github.com/NeonWizard/NeonWizard">
