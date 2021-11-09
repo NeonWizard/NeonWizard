@@ -28,8 +28,7 @@ I'm Wes, a software engineer with a specialty in fullstack web, machine learning
   <img align="center" src="https://github-readme-stats.vercel.app/api?custom_title=Wes%27s%20Public%20Github%20Stats&username=NeonWizard&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=eb3434&bg_color=1d1f21&hide_border=true" alt="Wes's Public GitHub Stats" />
 </a> -->
 
-
-<div style="display: flex;">
+<p float="left">
 <a href="https://github.com/NeonWizard/NeonWizard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonWizard&layout=compact&title_color=fff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21&hide_border=true"
 </a>
@@ -37,7 +36,7 @@ I'm Wes, a software engineer with a specialty in fullstack web, machine learning
 <a href="https://github.com/NeonWizard/NeonWizard">
   <img align="center" src="https://github-readme-stats.vercel.app/api?custom_title=Wes%27s%20Public%20Github%20Stats&username=NeonWizard&show_icons=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=eb3434&bg_color=1d1f21&hide_border=true&hide=prs" alt="Wes's Public GitHub Stats" />
 </a>
-</div>
+</p>
   
 <!-- links to your social media accounts -->
 
