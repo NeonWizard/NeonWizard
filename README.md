@@ -4,7 +4,7 @@
 
 ### Hello world! 👋
 
-I'm Wes, a software engineer with a specialty in fullstack web, machine learning, and Unity game development. I live in the United States, and currently go to school at University of Washington. You can find me on [Twitter][1] or [LinkedIn][2] :)
+I'm Wes, a software engineer with experience in fullstack web, machine learning, and Unity game development. I live in the United States, and currently go to school at the University of Washington. You can find me on [Twitter][1] or [LinkedIn][2] :)
 
 <img align="right" alt="GIF" src="neonwizard.gif">
 
