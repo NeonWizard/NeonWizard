@@ -4,7 +4,7 @@
 
 ### Hello world! 👋
 
-I'm Wes, a software engineer with experience in fullstack software engineering, machine learning, and Unity game development. I live in the United States, and currently work at Tesla! You can find me on [Twitter][1] or [LinkedIn][2] :)
+I'm Wes, a software engineer with experience in fullstack software engineering, machine learning, and Unity game development. I live in the United States, and currently work at Tesla! You can find me on [LinkedIn][2] :)
 
 <img align="right" alt="GIF" src="neonwizard.gif">
 
@@ -39,7 +39,6 @@ I'm Wes, a software engineer with experience in fullstack software engineering, 
   
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/wespooky
 [2]: https://www.linkedin.com/in/wesmiravete/
 [3]: https://github.com/NeonWizard
 
